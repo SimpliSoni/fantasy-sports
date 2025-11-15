@@ -2,7 +2,7 @@
 
 A React-based web application that simulates a fantasy sports platform. Users can select matches, build a team of 11 players within specific constraints (credits, roles, team limits), and assign a Captain/Vice-Captain.
 
-**Live Demo:** [Insert Your Vercel/Netlify Link Here]
+**Live Demo:** https://fantasy-sports-pi.vercel.app/
 
 ## 🚀 Tech Stack
 
