@@ -1,0 +1,5 @@
+{
+  "name": "Fantasy Sports",
+  "description": "A fantasy sports platform where users can participate in matches by creating their own teams. Select players, manage credits, and pick a captain to compete.",
+  "requestFramePermissions": []
+}
